@@ -114,8 +114,7 @@ project "msdfgen"
 
 	defines
 	{
-		"MSDFGEN_USE_CPP11",
-		"MSDFGEN_PUBLIC"
+		"MSDFGEN_USE_CPP11"
 	}
 
 	links

@@ -1,0 +1,35 @@
+﻿  Contour.cpp
+  DistanceMapping.cpp
+  EdgeHolder.cpp
+  MSDFErrorCorrection.cpp
+  Projection.cpp
+  Scanline.cpp
+  Shape.cpp
+  contour-combiners.cpp
+  edge-coloring.cpp
+  edge-segments.cpp
+  edge-selectors.cpp
+  equation-solver.cpp
+  export-svg.cpp
+D:\AGE\AGE\Engine\libs\vendor\msdfgen\core\export-svg.cpp(52,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AGE\AGE\Engine\libs\vendor\msdfgen\core\export-svg.cpp(66,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  msdf-error-correction.cpp
+  msdfgen.cpp
+  rasterization.cpp
+  render-sdf.cpp
+  save-bmp.cpp
+  save-fl32.cpp
+D:\AGE\AGE\Engine\libs\vendor\msdfgen\core\save-fl32.cpp(13,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  save-rgba.cpp
+D:\AGE\AGE\Engine\libs\vendor\msdfgen\core\save-rgba.cpp(14,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  save-tiff.cpp
+  sdf-error-estimation.cpp
+  shape-description.cpp
+  import-font.cpp
+  import-svg.cpp
+  resolve-shape-geometry.cpp
+  save-png.cpp
+  Generating Code...
+  msdfgen.vcxproj -> D:\AGE\AGE\Engine\libs\vendor\msdfgen\bin\Release-windows-x86_64\msdfgen\msdfgen.lib
