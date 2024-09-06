@@ -54,7 +54,8 @@ project "freetype"
 		"freetype/src/truetype/truetype.c",
 		"freetype/src/type1/type1.c",
 		"freetype/src/type42/type42.c",
-		"freetype/src/winfonts/winfnt.c"
+		"freetype/src/winfonts/winfnt.c",
+		"freetype/src/svg/ftsvg.c"
 	}
 
 	includedirs
@@ -114,7 +115,8 @@ project "msdfgen"
 
 	defines
 	{
-		"MSDFGEN_USE_CPP11"
+		"MSDFGEN_USE_CPP11",
+		"MSDFGEN_USE_LODEPNG"
 	}
 
 	links
