@@ -70,9 +70,12 @@
     <Filter Include="src\smooth">
       <UniqueIdentifier>{D6527279-C20A-B4C6-2B12-8D2217E94EB7}</UniqueIdentifier>
     </Filter>
+<<<<<<< HEAD
     <Filter Include="src\svg">
       <UniqueIdentifier>{4C3830A9-B817-AF44-C12F-3A1B2D8E15A6}</UniqueIdentifier>
     </Filter>
+=======
+>>>>>>> 54bc78a88d35bf7520ef98306539e684805ca6e6
     <Filter Include="src\truetype">
       <UniqueIdentifier>{DEBAC119-CA1D-51BE-73A3-89745FE51C41}</UniqueIdentifier>
     </Filter>
@@ -440,9 +443,12 @@
     <ClCompile Include="src\smooth\smooth.c">
       <Filter>src\smooth</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="src\svg\ftsvg.c">
       <Filter>src\svg</Filter>
     </ClCompile>
+=======
+>>>>>>> 54bc78a88d35bf7520ef98306539e684805ca6e6
     <ClCompile Include="src\truetype\truetype.c">
       <Filter>src\truetype</Filter>
     </ClCompile>

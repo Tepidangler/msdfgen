@@ -249,7 +249,10 @@
     <ClCompile Include="src\sdf\sdf.c" />
     <ClCompile Include="src\sfnt\sfnt.c" />
     <ClCompile Include="src\smooth\smooth.c" />
+<<<<<<< HEAD
     <ClCompile Include="src\svg\ftsvg.c" />
+=======
+>>>>>>> 54bc78a88d35bf7520ef98306539e684805ca6e6
     <ClCompile Include="src\truetype\truetype.c" />
     <ClCompile Include="src\type1\type1.c" />
     <ClCompile Include="src\type42\type42.c" />
